@@ -5,4 +5,5 @@
 - 📫 How to reach me : Email: sakshamt234@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-tiwari&layout=compact)](https://github.com/saksham-tiwari/github-readme-stats)
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=saksham-tiwari&show_icons=true&theme=radical)
